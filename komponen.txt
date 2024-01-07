@@ -1,0 +1,11 @@
+hallo saya ragil nur rasyid, disini saya akan membagikan projek yang telah saya buat yaitu IOT penyiram tanaman otomatis
+
+komponen yanng di perlukan:
+-nodemcu esp8266
+-sanyo
+-baterai
+-breadboard(optional)
+-kabel jumper
+-relay
+-soil moisture(sensor kelembaban tanah)
+
